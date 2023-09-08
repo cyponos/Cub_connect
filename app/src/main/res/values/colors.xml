@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="Pastelgreen">#77DD77</color>
+    <color name="Pastelyellow">#FDFD96</color>
+    <color name="SELUgreen">#1A5632</color>
+    <color name="SELUyellow">#FFC629</color>
 </resources>
