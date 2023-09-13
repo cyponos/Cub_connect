@@ -51,6 +51,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                 .replace(R.id.fragmet_container, EventsFragment()).commit()
             R.id.nav_map -> supportFragmentManager.beginTransaction()
                 .replace(R.id.fragmet_container, MapFragment()).commit()
+            R.id.nav_login -> supportFragmentManager.beginTransaction().replace(R.id.fragmet_container, LoginFragment()).commit()
         }
         drawerLayout.closeDrawer(GravityCompat.START)
         return true

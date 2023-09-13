@@ -22,6 +22,10 @@
             android:id="@+id/nav_map"
             android:icon="@drawable/map"
             android:title="Campus Map"/>
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/friends"
+            android:title="Login"/>
 
     </group>
 
