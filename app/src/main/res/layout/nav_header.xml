@@ -9,6 +9,11 @@
     android:background="@color/Pastelgreen"
     android:theme="@style/ThemeOverlay.AppCompat.Dark">
 
+    <ImageView
+        android:layout_width="89dp"
+        android:layout_height="97dp"
+        android:src="@drawable/lion" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -19,9 +19,14 @@
             android:icon="@drawable/calander"
             android:title="Events"/>
         <item
-            android:id="@+id/nav_map"
+            android:id="@+id/nav_maps"
             android:icon="@drawable/map"
             android:title="Campus Map"/>
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/info"
+            android:title="About"/>
 
     </group>
 
